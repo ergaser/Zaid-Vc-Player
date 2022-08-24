@@ -1,4 +1,4 @@
-# Zaid Vc Player
+# Calty Music Robot
 A telegram Music bot Source Code By Using PyroGram Client
 
 <h3>Requirements 📝</h3>
